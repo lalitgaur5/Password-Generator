@@ -29,3 +29,4 @@ Your Random Password is: 5@Dk&9q!Az#1
 - User input handling
 - Loops and randomization
 
+Author -- Lalit Gaur
